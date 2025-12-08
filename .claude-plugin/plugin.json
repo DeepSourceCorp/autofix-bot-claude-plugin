@@ -1,0 +1,14 @@
+{
+  "name": "autofix-bot",
+  "description": "Autofix Bot is the AI agent purpose-built for deep code review. Ship non-slop!",
+  "version": "0.1.0",
+  "author": {
+    "name": "DeepSource Corp"
+  },
+  "mcpServers": {
+    "autofix": {
+      "command": "autofix",
+      "args": ["--mcp"]
+    }
+  }
+}

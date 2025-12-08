@@ -1,0 +1,13 @@
+{
+  "name": "autofix-bot-claude-plugin",
+  "owner": {
+    "name": "DeepSource Corp"
+  },
+  "plugins": [
+    {
+      "name": "autofix-bot",
+      "source": "./",
+      "description": "Autofix Bot is the AI agent purpose-built for deep code review. Ship non-slop!"
+    }
+  ]
+}
